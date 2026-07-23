@@ -1,0 +1,29 @@
+# Afilio
+
+> Afilio (Afilio - Gesellschaft für Vorsorge mbH, Berlin) operates a consumer digital provision platform ("Vorsorgeplattform") that helps German families prepare for emergencies, care, and death. Members create legally valid advance directives (Patientenverfügung), healthcare powers of attorney (Vorsorgevollmacht), and wills (Testament), store a digital asset/document inventory, and share access through an emergency card that gives doctors and relatives 24/7 access to critical information. Over four million families use the GDPR-compliant service.
+
+This is an API Evangelist network profile. Afilio is a business-to-consumer platform and does not currently publish a public developer API, OpenAPI specification, SDK, or developer portal. The links below point to Afilio's public product and legal surface.
+
+## Company
+- [Afilio home](https://www.afilio.de/): Digital provision platform overview.
+- [Über uns / About](https://www.afilio.de/ueber-uns): Company mission and team.
+- [Founding story](https://www.afilio.de/ratgeber/gruendungsgeschichte): How Afilio began.
+- [Careers](https://www.afilio.de/karriere): Open roles in Berlin.
+- [Contact](https://www.afilio.de/kontakt): Customer contact.
+
+## Products
+- [Vorsorge / Provision](https://www.afilio.de/vorsorge): Advance directives and powers of attorney.
+- [Nachlass / Inheritance](https://www.afilio.de/nachlass): Wills and estate planning.
+- [Pflege / Care](https://www.afilio.de/pflege): Care-level applications and consultation.
+- [Mitgliedschaft / Membership](https://www.afilio.de/mitgliedschaft): Membership and pricing.
+- [Login / App](https://www.afilio.de/app/): Member application.
+
+## Guides
+- [Ratgeber / Guide](https://www.afilio.de/ratgeber): Consumer guidance and articles on provision, care, and inheritance.
+
+## Legal & Security
+- [Impressum](https://www.afilio.de/impressum): Legal imprint.
+- [Datenschutz / Privacy](https://www.afilio.de/datenschutz): Privacy policy.
+- [AGB / Terms](https://www.afilio.de/agb): Terms and conditions.
+- [Widerrufsrecht](https://www.afilio.de/widerrufsrecht): Right of withdrawal.
+- [security.txt](https://www.afilio.de/.well-known/security.txt): Security contact (security@afilio.de).

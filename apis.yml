@@ -1,7 +1,16 @@
 aid: afilio
 name: Afilio
-description: Afilio is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Afilio (Afilio - Gesellschaft für Vorsorge mbH) is a Berlin-based digital
+  provision platform ("Vorsorgeplattform") that helps German families prepare for
+  emergencies, care situations, and death. Through a paid membership, users create
+  legally valid advance directives (Patientenverfügung), healthcare powers of attorney
+  (Vorsorgevollmacht), and wills (Testament), and maintain a digital inventory of
+  documents and assets. A central emergency card gives doctors and relatives 24/7
+  access to critical medical and provision information, and Afilio also assists with
+  care-level (Pflegegrad) applications and expert consultation. Over four million
+  families use the GDPR-compliant service. Afilio is a consumer (B2C) platform and
+  does not currently publish a public developer API; this profile captures its public
+  product, legal, and security surface. Backed by Speedinvest.'
 url: https://raw.githubusercontent.com/api-evangelist/afilio/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,32 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
 modified: '2026-07-17'
+image: https://static.afilio.de/images/afilio_brand/logo_color_v2.min.svg
 tags:
 - Company
+- Legal Tech
+- Estate Planning
+- Digital Provision
+- Healthcare
+- Elder Care
+- Consumer
+- Germany
+- GDPR
+- Wills
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +52,39 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://afilio.de
+  url: https://www.afilio.de/
+- type: About
+  url: https://www.afilio.de/ueber-uns
+- type: Blog
+  url: https://www.afilio.de/ratgeber
+- type: Pricing
+  url: https://www.afilio.de/mitgliedschaft
+- type: SignUp
+  url: https://www.afilio.de/app/forms/de-product-selector/edit/
+- type: Login
+  url: https://www.afilio.de/app/
+- type: Support
+  url: https://www.afilio.de/kontakt
+- type: TermsOfService
+  url: https://www.afilio.de/agb
+- type: PrivacyPolicy
+  url: https://www.afilio.de/datenschutz
+- type: Imprint
+  url: https://www.afilio.de/impressum
+- type: WellKnown
+  url: well-known/afilio-well-known.yml
+- type: SecurityTxt
+  url: well-known/afilio-security.txt
+- type: LLMsTxt
+  url: llms/afilio-llms.txt
+- type: DomainSecurity
+  url: security/afilio-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/afilio-vulnerability-disclosure.yml
+- type: Security
+  url: https://www.afilio.de/.well-known/security.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

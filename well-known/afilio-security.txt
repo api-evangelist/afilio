@@ -1,0 +1,4 @@
+Canonical: https://www.afilio.de/.well-known/security.txt
+Contact: mailto:security@afilio.de
+Expires: 2027-01-01T00:00:00Z
+Preferred-Languages: en, de
